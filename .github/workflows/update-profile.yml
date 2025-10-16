@@ -37,11 +37,11 @@ jobs:
           node update-repos.js
 
       - name: 🧠 Update recent activity
-        uses: DenverCoder1/readme-activity-feed@v1
+        uses: Readme-Workflows/recent-activity@v2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit_message: "🔄 Update recent activity"
-          max_lines: 5
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MAX_LINES: 5
+          COMMIT_MSG: "🔄 Update recent activity"
 
 
       - name: 🐍 Generate snake animation
