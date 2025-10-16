@@ -68,7 +68,7 @@
 <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,php,python&theme=dark&perline=6" />
 
 ### 🔧 Development Tools
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,arch,mysql,bash,docker&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,arch,mysql&theme=dark&perline=8" />
 
 ### 📚 Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=express,react,tailwind,bootstrap&theme=dark&perline=4" />
@@ -105,11 +105,11 @@
 <tr>
 <td colspan="2">
 
-### 🎯 2025 Goals
-- ✅ Build 5+ real-world applications
-- ✅ Contribute to 10+ open source projects
-- ✅ Master full-stack development
-- ✅ Learn cloud technologies (AWS/GCP)
+### 🎯 2026 Goals
+- ✅ Build Web Rest Api with 35+ features
+- ✅ Contribute to 2+ open source project
+- ✅ Master backend development
+- ✅ Learn databases with (MySQL / MongDB)
 - ✅ Build a strong developer portfolio
 
 </td>
