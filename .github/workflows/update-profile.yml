@@ -37,7 +37,7 @@ jobs:
           node update-repos.js
 
       - name: 🧠 Update recent activity
-        uses: Readme-Workflows/recent-activity@v2
+        uses: Readme-Workflows/recent-activity@v1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MAX_LINES: 5
