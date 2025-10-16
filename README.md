@@ -24,6 +24,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keyyH4B&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" height="170" />
 </div>
 
+<h2 align="center">📚 Recent Repositories</h2>
+
+<!-- START_SECTION:repos -->
+<!-- Please keep this section. It will be automatically updated every 12 hours -->
+<!-- END_SECTION:repos -->
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keyyH4B/keyyH4B/output/pacman-contribution-graph-dark.svg">
