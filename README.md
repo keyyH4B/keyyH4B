@@ -43,7 +43,26 @@
 ## 📦 Recent Repositories
 
 <!-- START_SECTION:repos -->
-<!-- This section will be automatically updated by GitHub Actions -->
+<div align="center">
+  <div>
+
+<a href="https://github.com/keyyH4B/keyyH4B" target="_blank">
+  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=keyyH4B&repo=keyyH4B&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=15" alt="keyyH4B" />
+</a>
+
+<a href="https://github.com/keyyH4B/conditionalSteatments-PHP" target="_blank">
+  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=keyyH4B&repo=conditionalSteatments-PHP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=15" alt="conditionalSteatments-PHP" />
+</a>
+
+<a href="https://github.com/keyyH4B/arrayMAP-PHP" target="_blank">
+  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=keyyH4B&repo=arrayMAP-PHP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=15" alt="arrayMAP-PHP" />
+</a>
+  </div>
+</div>
+
+<div align="center">
+  <sub>Last updated: October 16, 2025 at 09:41 PM WITA</sub>
+</div>
 <!-- END_SECTION:repos -->
 
 <br>
