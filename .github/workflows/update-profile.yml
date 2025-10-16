@@ -36,16 +36,16 @@ jobs:
         run: |
           node update-repos.js
 
-      - name: 📊 Update recent activity
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: 🧠 Update recent activity
+        uses: DenverCoder1/readme-activity-feed@v1
         with:
-          COMMIT_MSG: '🔄 Update recent activity'
-          MAX_LINES: 5
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "🔄 Update recent activity"
+          max_lines: 5
+
 
       - name: 🐍 Generate snake animation
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -53,6 +53,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
 
       - name: 📤 Push changes to output branch
         uses: crazy-max/ghaction-github-pages@v4
