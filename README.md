@@ -118,14 +118,22 @@
 
 <br>
 
-## 📈 Coding Stats
-
-<!--START_SECTION:waka-->
-<!-- Wakatime stats will appear here -->
-<!--END_SECTION:waka-->
+## 📈 Contribution Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@keyyH4B&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&layout=compact" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=keyyH4B&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
+</div>
+
+<br>
+
+## 💡 Recent Activity
+
+<div align="center">
+  
+<!--START_SECTION:activity-->
+<!-- GitHub Activity will be shown here -->
+<!--END_SECTION:activity-->
+
 </div>
 
 <br>
@@ -140,15 +148,40 @@
 
 <br>
 
-## 🐍 Contribution Graph
+## 📊 This Week's Development Breakdown
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keyyH4B/keyyH4B/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keyyH4B/keyyH4B/output/github-snake.svg">
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/keyyH4B/keyyH4B/output/github-snake-dark.svg">
-  </picture>
+
+```text
+JavaScript   ████████████░░░░░░░░░   60%
+HTML/CSS     ████████░░░░░░░░░░░░░   40%
+PHP          ██████░░░░░░░░░░░░░░░   30%
+Node.js      ████████░░░░░░░░░░░░░   40%
+Other        ████░░░░░░░░░░░░░░░░░   20%
+```
+
 </div>
+
+<br>
+
+## 🎨 Profile Details
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keyyH4B&theme=tokyonight" width="100%" alt="Profile Details" />
+</div>
+
+<details align="center">
+<summary>📊 More Stats</summary>
+<br>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keyyH4B&theme=tokyonight" width="48%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keyyH4B&theme=tokyonight" width="48%" alt="Most Commit Language" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=keyyH4B&theme=tokyonight" width="48%" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keyyH4B&theme=tokyonight&utcOffset=8" width="48%" alt="Productive Time" />
+</div>
+</details>
 
 <br>
 
